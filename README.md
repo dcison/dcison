@@ -12,10 +12,6 @@
 - :memo: [Blog](https://juejin.cn/user/905653311511272) 
 - :email: `dcison@hotmail.com`
 
-
-
-<summary>My GitHub Stats</summary>
-
 ![dcison's github stats](https://github-readme-stats.vercel.app/api?username=dcison&theme=vue&show_icons=true)
 
 ## 😜 A Joke:
