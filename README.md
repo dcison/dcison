@@ -8,7 +8,8 @@
 🎊 Live the life you want!
 
 - :hammer_and_pick: JavaScript / TypeScript / Python / Golang
-- :memo: [Blog](https://juejin.cn/user/905653311511272) :email: `dcison@hotmail.com`
+- :memo: [Blog](https://juejin.cn/user/905653311511272) 
+- :email: `dcison@hotmail.com`
 
 
 
